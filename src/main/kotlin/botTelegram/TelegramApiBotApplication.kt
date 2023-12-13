@@ -5,7 +5,6 @@ import org.springframework.boot.runApplication
 
 @SpringBootApplication
 class TelegramApiBotApplication
-
 fun main() {
     runApplication<TelegramApiBotApplication>()
 }
